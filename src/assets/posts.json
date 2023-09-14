@@ -1,0 +1,22 @@
+[
+    {
+        "image": "images/workshop.jpg",
+        "title": "Lorem",
+        "text": "Sed mattis nunc"
+    },
+    {
+        "image": "images/gondol.jpg",
+        "title": "Ipsum",
+        "text": "Praes tinci sed"
+    },
+    {
+        "image": "images/skies.jpg",
+        "title": "Dorum",
+        "text": "Ultricies congue"
+    },
+    {
+        "image": "images/rock.jpg",
+        "title": "Mingsum",
+        "text": "Lorem ipsum dipsum"
+    }
+]
